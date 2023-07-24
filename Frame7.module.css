@@ -1,5 +1,5 @@
-.frame-child8,
-.frame-child9 {
+.frame-child7,
+.frame-child8 {
   position: absolute;
   top: 0;
   left: 0;
@@ -8,7 +8,7 @@
   width: 316px;
   height: 328px;
 }
-.frame-child9 {
+.frame-child8 {
   top: 91px;
   left: 112px;
   background-color: var(--color-goldenrod);

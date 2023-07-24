@@ -1,7 +1,7 @@
+.frame-child3,
 .frame-child4,
 .frame-child5,
-.frame-child6,
-.frame-child7 {
+.frame-child6 {
   position: absolute;
   top: 0;
   left: 0;
@@ -9,19 +9,19 @@
   width: 93px;
   height: 42px;
 }
+.frame-child4,
 .frame-child5,
-.frame-child6,
-.frame-child7 {
+.frame-child6 {
   top: 105px;
   height: 44px;
 }
-.frame-child6,
-.frame-child7 {
+.frame-child5,
+.frame-child6 {
   top: 208px;
   width: 66px;
   height: 41px;
 }
-.frame-child7 {
+.frame-child6 {
   top: 324px;
   left: 9px;
   width: 133px;
