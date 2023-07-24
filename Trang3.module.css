@@ -1,4 +1,4 @@
-.e13a32e4ca8f2d3563612647cc3ff0-icon2 {
+.e13a32e4ca8f2d3563612647cc3ff0-icon1 {
   position: absolute;
   top: 0;
   left: 0;
@@ -6,7 +6,7 @@
   height: 1080px;
   object-fit: cover;
 }
-.trang-3-child {
+.group-inner {
   position: absolute;
   top: 0;
   left: 0;
@@ -17,8 +17,8 @@
   width: 329px;
   height: 1086px;
 }
-.trang-3-inner,
-.trang-3-item {
+.group-child1,
+.rectangle-div {
   position: absolute;
   top: 0;
   left: 324px;
@@ -26,7 +26,7 @@
   width: 1596px;
   height: 1086px;
 }
-.trang-3-inner {
+.group-child1 {
   top: 1px;
   background-color: var(--color-white);
   height: 1085px;
@@ -40,7 +40,7 @@
   width: 250px;
   height: 75px;
 }
-.about-me2 {
+.about-me1 {
   position: absolute;
   top: 8px;
   left: 5px;
@@ -74,7 +74,7 @@
   width: 180px;
   height: 75px;
 }
-.project2 {
+.project1 {
   position: absolute;
   top: 10px;
   left: 3px;
@@ -108,7 +108,7 @@
   width: 179px;
   height: 75px;
 }
-.home2 {
+.home1 {
   position: absolute;
   top: 10px;
   left: 4px;
@@ -165,6 +165,13 @@
 .d0976a3904564ea8e552501f681548-icon {
   top: 420px;
   height: 245px;
+}
+.e13a32e4ca8f2d3563612647cc3ff0-group {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1920px;
+  height: 1088px;
 }
 .trang-3 {
   position: relative;
