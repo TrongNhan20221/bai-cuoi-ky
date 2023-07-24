@@ -6,7 +6,7 @@
   height: 1080px;
   object-fit: cover;
 }
-.group-child1 {
+.group-child8 {
   position: absolute;
   top: 0;
   left: 0;
@@ -17,8 +17,8 @@
   width: 329px;
   height: 1086px;
 }
-.group-child2,
-.group-child3 {
+.group-child10,
+.group-child9 {
   position: absolute;
   top: 0;
   left: 324px;
@@ -26,7 +26,7 @@
   width: 1596px;
   height: 1086px;
 }
-.group-child3 {
+.group-child10 {
   top: 1px;
   background-color: var(--color-white);
   height: 1085px;
@@ -99,7 +99,7 @@
 }
 .frame-20-button2,
 .frame-child10,
-.frame-child9 {
+.frame-child11 {
   position: absolute;
   background-color: var(--color-mediumorchid-100);
 }
@@ -114,14 +114,14 @@
   height: 75px;
 }
 .frame-child10,
-.frame-child9 {
+.frame-child11 {
   top: 0;
   left: 0;
   box-shadow: 0 4px 4px rgba(0, 0, 0, 0.45);
   width: 316px;
   height: 328px;
 }
-.frame-child10 {
+.frame-child11 {
   top: 91px;
   left: 112px;
   background-color: var(--color-goldenrod);
@@ -161,10 +161,10 @@
   width: 651px;
   height: 804px;
 }
-.frame-child11,
 .frame-child12,
 .frame-child13,
-.frame-child14 {
+.frame-child14,
+.frame-child15 {
   position: absolute;
   top: 0;
   left: 0;
@@ -172,19 +172,19 @@
   width: 93px;
   height: 42px;
 }
-.frame-child12,
 .frame-child13,
-.frame-child14 {
+.frame-child14,
+.frame-child15 {
   top: 105px;
   height: 44px;
 }
-.frame-child13,
-.frame-child14 {
+.frame-child14,
+.frame-child15 {
   top: 208px;
   width: 66px;
   height: 41px;
 }
-.frame-child14 {
+.frame-child15 {
   top: 324px;
   left: 9px;
   width: 133px;
@@ -238,7 +238,7 @@
   width: 805px;
   height: 702px;
 }
-.e13a32e4ca8f2d3563612647cc3ff0-group {
+.e13a32e4ca8f2d3563612647cc3ff0-parent1 {
   position: absolute;
   top: 0;
   left: 0;

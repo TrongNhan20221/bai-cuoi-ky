@@ -6,7 +6,7 @@
   height: 1080px;
   object-fit: cover;
 }
-.group-child {
+.group-child5 {
   position: absolute;
   top: 0;
   left: 0;
@@ -17,8 +17,8 @@
   width: 329px;
   height: 1086px;
 }
-.group-inner,
-.group-item {
+.group-child6,
+.group-child7 {
   position: absolute;
   top: 0;
   left: 324px;
@@ -26,7 +26,7 @@
   width: 1596px;
   height: 1086px;
 }
-.group-inner {
+.group-child7 {
   top: 1px;
   background-color: var(--color-white);
   height: 1085px;
@@ -166,7 +166,7 @@
   top: 420px;
   height: 245px;
 }
-.e13a32e4ca8f2d3563612647cc3ff0-parent {
+.group-div {
   position: absolute;
   top: 0;
   left: 0;
