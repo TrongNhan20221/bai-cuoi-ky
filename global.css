@@ -19,6 +19,7 @@ body {
   --color-goldenrod: #fecc59;
   --color-mediumorchid-100: rgba(173, 53, 175, 0.5);
   --color-gray-100: rgba(255, 255, 255, 0.02);
+  --color-gray-200: rgba(255, 255, 255, 0);
   --color-black: #000;
   --color-gainsboro: #d9d9d9;
 }

@@ -1,4 +1,4 @@
-.e13a32e4ca8f2d3563612647cc3ff0-icon1 {
+.e13a32e4ca8f2d3563612647cc3ff0-icon3 {
   position: absolute;
   top: 0;
   left: 0;
@@ -6,7 +6,7 @@
   height: 1080px;
   object-fit: cover;
 }
-.group-inner {
+.group-child {
   position: absolute;
   top: 0;
   left: 0;
@@ -17,8 +17,8 @@
   width: 329px;
   height: 1086px;
 }
-.group-child1,
-.rectangle-div {
+.group-inner,
+.group-item {
   position: absolute;
   top: 0;
   left: 324px;
@@ -26,12 +26,12 @@
   width: 1596px;
   height: 1086px;
 }
-.group-child1 {
+.group-inner {
   top: 1px;
   background-color: var(--color-white);
   height: 1085px;
 }
-.frame-25-button-child {
+.frame-25-button-item {
   position: absolute;
   top: 0;
   left: 0;
@@ -40,7 +40,7 @@
   width: 250px;
   height: 75px;
 }
-.about-me1 {
+.about-me5 {
   position: absolute;
   top: 8px;
   left: 5px;
@@ -54,7 +54,7 @@
   height: 37px;
   text-shadow: 0 4px 4px rgba(0, 0, 0, 0.3);
 }
-.frame-25-button {
+.frame-25-button1 {
   cursor: pointer;
   border: 0;
   padding: 0;
@@ -65,7 +65,7 @@
   width: 250px;
   height: 75px;
 }
-.frame-26-button-child {
+.frame-26-button-inner {
   position: absolute;
   top: 0;
   left: 0;
@@ -74,7 +74,7 @@
   width: 180px;
   height: 75px;
 }
-.project1 {
+.project5 {
   position: absolute;
   top: 10px;
   left: 3px;
@@ -88,7 +88,7 @@
   height: 37px;
   text-shadow: 0 4px 4px rgba(0, 0, 0, 0.3);
 }
-.frame-26-button {
+.frame-26-button2 {
   cursor: pointer;
   border: 0;
   padding: 0;
@@ -99,7 +99,7 @@
   width: 180px;
   height: 75px;
 }
-.frame-24-button-child {
+.frame-24-button-child1 {
   position: absolute;
   top: 0;
   left: 0;
@@ -108,7 +108,7 @@
   width: 179px;
   height: 75px;
 }
-.home1 {
+.home5 {
   position: absolute;
   top: 10px;
   left: 4px;
@@ -122,7 +122,7 @@
   height: 37px;
   text-shadow: 0 4px 4px rgba(0, 0, 0, 0.3);
 }
-.frame-24-button {
+.frame-24-button3 {
   cursor: pointer;
   border: 0;
   padding: 0;
@@ -133,8 +133,8 @@
   width: 179px;
   height: 75px;
 }
-.a12feddad906b9140a27fa88bcdc70-icon1,
-.id-malavida-1-1-icon {
+.a12feddad906b9140a27fa88bcdc70-icon2,
+.id-malavida-1-1-icon1 {
   position: absolute;
   top: 153px;
   left: 1135px;
@@ -142,15 +142,15 @@
   height: 825px;
   object-fit: cover;
 }
-.id-malavida-1-1-icon {
+.id-malavida-1-1-icon1 {
   top: 0;
   left: 681px;
   width: 402px;
   height: 1088px;
 }
-.d0976a3904564ea8e552501f681548-icon,
-.icon,
-.images-1-icon {
+.d0976a3904564ea8e552501f681548-icon1,
+.icon1,
+.images-1-icon1 {
   position: absolute;
   top: 56px;
   left: 377px;
@@ -158,22 +158,22 @@
   height: 315px;
   object-fit: cover;
 }
-.d0976a3904564ea8e552501f681548-icon,
-.images-1-icon {
+.d0976a3904564ea8e552501f681548-icon1,
+.images-1-icon1 {
   top: 715px;
 }
-.d0976a3904564ea8e552501f681548-icon {
+.d0976a3904564ea8e552501f681548-icon1 {
   top: 420px;
   height: 245px;
 }
-.e13a32e4ca8f2d3563612647cc3ff0-group {
+.e13a32e4ca8f2d3563612647cc3ff0-parent {
   position: absolute;
   top: 0;
   left: 0;
   width: 1920px;
   height: 1088px;
 }
-.trang-3 {
+.trang-31 {
   position: relative;
   background-color: var(--color-white);
   width: 100%;
